@@ -1,7 +1,9 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # WUPpertal building Change Detection dataset (WUP-CD)
-Information and code about the IGARSS 2022 publication "TOWARDS DIGITAL SURFACE MODELS FOR DEEP LEARNING BUILDING CHANGE DETECTION".
+Information and code about the IGARSS 2022 publication 
+
+**"TOWARDS DIGITAL SURFACE MODELS FOR DEEP LEARNING BUILDING CHANGE DETECTION"**.
 
 ## Download the Datasets
 The datasaets are kindly hosted by [zenodo.org](https://zenodo.org).
