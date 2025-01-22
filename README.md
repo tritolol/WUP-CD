@@ -1,11 +1,11 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# WUPpertal building Change Detection dataset (WUP-CD)
 Information and code about the IGARSS 2022 publication 
 
-**[WUP-CD: Towards 2.5D Data for Deep Learning Building Change Detection](https://ieeexplore.ieee.org/document/9883863)**.
+# [WUP-CD: Towards 2.5D Data for Deep Learning Building Change Detection](https://ieeexplore.ieee.org/document/9883863)
 
 ## Download the Datasets
+WUPpertal building Change Detection dataset (WUP-CD)
 The datasaets are kindly hosted by [zenodo.org](https://zenodo.org).
 ### Medium Resolution
 - 0.5m Ground Sampling Distance
@@ -25,7 +25,19 @@ Use the script [test.py](test.py) to test a trained and saved model.
 
 ## Citation
 If you find this work or the data itself useful, please cite us.
-ToDo: Add BiBTeX
+```
+@INPROCEEDINGS{9883863,
+  author={Bauer, Adrian and Oberbossel, Jens and Sander, Stefan and Kummert, Anton},
+  booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={WUP-CD: Towards 2.5D Data for Deep Learning Building Change Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={219-222},
+  keywords={Deep learning;Analytical models;Image resolution;Buildings;Data acquisition;Feature extraction;Data models;Change Detection (CD);Remote Sensing Dataset;Deep Learning;Digital Surface Model;2.5D Data},
+  doi={10.1109/IGARSS46834.2022.9883863}}
+```
+
 
 ## License
 This work is licensed under a
